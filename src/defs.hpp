@@ -1,6 +1,3 @@
-#ifdef GAME_INCLUDES
-#endif
-
 #ifndef DEFS_HPP
 #define DEFS_HPP
 
