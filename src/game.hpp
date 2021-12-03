@@ -1,6 +1,5 @@
 #pragma once
 
-#include <entt/entt.hpp>
 #include <raylib.h>
 #include <raymath.h>
 #include "defs.hpp"
