@@ -4,7 +4,7 @@ Raylib, Cmake, Ninja, Make and a c++ compiler are required for building and runn
 Initialize first using `make b`, build and run using `make d` for debug builds, and `make r` for release builds.
 
 # Example
-A basic example showing state switching between rendering a red and blue background.  
+A basic example showing state switching between a red and blue background.  
 ```
 #include "states.hpp"
 #include <raylib.h>
