@@ -12,3 +12,5 @@ b:
 	cmake -B build/debug -GNinja -DCMAKE_BUILD_TYPE=Debug .
 	cmake -B build/release -GNinja -DCMAKE_BUILD_TYPE=Release .
 
+f:
+	clang-format src/*.hpp src/*.cpp -i
