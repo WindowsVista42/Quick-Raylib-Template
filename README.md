@@ -1,7 +1,7 @@
 # Quick-Raylib-Template
 A quick raylib template with a simple game state switcher.  
 Raylib, Cmake, Ninja, Make and a c++ compiler are required for building and running.  
-Clang-format is recommended for automatic formatting using `make f`
+Clang-format is recommended for automatic formatting using `make f`  
 Initialize first using `make b`, build and run using `make d` for debug builds, and `make r` for release builds.
 
 # Example
